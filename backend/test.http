@@ -1,0 +1,2 @@
+GET http://localhost:8000/app/fetch/Sahira
+Content-Type: application/json
